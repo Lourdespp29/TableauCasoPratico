@@ -8,19 +8,14 @@ Brindar a los analistas de Recursos Humanos un dashboard interactivo y dinámico
 
 
 ## Resultados
--De sus 32 opciones de productos, los 3 productos más vendidos son los siguientes.
+-Dentro de los empleados activos, el sexo femenino es el predominante.
 
-<img width="424" alt="image" src="https://github.com/user-attachments/assets/efae9ae2-e52a-4808-8ef9-b39969e4879b">
+<img width="390" alt="Captura de pantalla 2024-08-07 a la(s) 1 58 25 p m" src="https://github.com/user-attachments/assets/625a34a5-8869-4873-9d7a-82dd8aeb769f">
 
-Considero que las estrategias de ventas deben enfocarse en mantener a las hamburguesas como el No. 1 y y una estrategia para aumentar las ventas del Korean Beef Bowl.
+-El mayor número de empleados activos fueron seleccionados a través de la fuente de reclutamiento de Indeed.
 
--La categoría de su menú con mayores ventas es la Asiatica, es probable que sea necesario incluir más productos en esta categoría que es muy atrativa entre los clientes.
+<img width="845" alt="Captura de pantalla 2024-08-07 a la(s) 1 59 33 p m" src="https://github.com/user-attachments/assets/dad7b6e2-b49c-4730-aeaa-dbe3abc2f1c4">
 
-<img width="463" alt="image" src="https://github.com/user-attachments/assets/125b4763-5575-40c4-be8f-af6c03067555">
+-La principal razón de la baja de empleados es el haber encontrado otra posición
 
--Los horarios con mayores ventas han sido
-
-
-![image](https://github.com/user-attachments/assets/545e6065-7b12-40bd-8afa-c0cc7f90ccd8)
-
-Durante el horario de comida es donde mayor afluencia y pedidos tienen, por lo que podrían ofrecer promociones fuera de esos horarios.
+<img width="826" alt="Captura de pantalla 2024-08-07 a la(s) 2 03 18 p m" src="https://github.com/user-attachments/assets/9326a564-ff31-4509-8a85-4911d7a18172">
