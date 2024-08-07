@@ -1,5 +1,8 @@
 # Caso Práctico Dashboard "HR empresa SRL"
 
+## Dashboard Tableau
+https://public.tableau.com/app/profile/maria.de.lourdes.p.rez.palomares/viz/AnlisisdeHRSRL/Dashboard1
+
 ## Contexto
 La siguiente información son datos personales de los empleados de la compañía SRL, contiene información detallada sobre la contratación, desempeño y características demográficas de cada empleado.
 
@@ -19,5 +22,3 @@ Brindar a los analistas de Recursos Humanos un dashboard interactivo y dinámico
 -La principal razón de la baja de empleados es el haber encontrado otra posición
 
 <img width="826" alt="Captura de pantalla 2024-08-07 a la(s) 2 03 18 p m" src="https://github.com/user-attachments/assets/9326a564-ff31-4509-8a85-4911d7a18172">
-
-https://public.tableau.com/app/profile/maria.de.lourdes.p.rez.palomares/viz/AnlisisdeHRSRL/Dashboard1
