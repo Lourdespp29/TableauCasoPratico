@@ -1,7 +1,7 @@
 # Caso Práctico Dashboard "HR empresa SRL"
 
 ## Dashboard Tableau
-https://public.tableau.com/app/profile/maria.de.lourdes.p.rez.palomares/viz/AnlisisdeHRSRL/Dashboard1
+(https://public.tableau.com/app/profile/maria.de.lourdes.p.rez.palomares/viz/AnlisisdeHRSRL/AnalisisHRSRL)
 
 ## Contexto
 La siguiente información son datos personales de los empleados de la compañía SRL, contiene información detallada sobre la contratación, desempeño y características demográficas de cada empleado.
